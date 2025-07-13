@@ -1,1 +1,1 @@
-# Neural-network-study-
+# Neural-network-study
